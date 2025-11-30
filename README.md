@@ -20,7 +20,7 @@ An accessible, transformer-based image captioning system designed to assist visu
 ### Prerequisites
 
 - Node.js 16+
-- Backend API running on `http://localhost:8000` ([Setup Backend](https://github.com/yourusername/ai-image-captioning-backend))
+- Backend API running on `http://localhost:8000` ([Setup Backend](https://github.com/octane001/Ai-Image-Captioning-Backend))
 
 ### Installation
 
